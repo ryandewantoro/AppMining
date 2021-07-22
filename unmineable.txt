@@ -1,0 +1,4 @@
+rx.unmineable.com:3333
+DOGE:YourAddress.YourWorkerName
+D83DhUSvRArbqwh383RZSpxYk4pkVQWjwN
+xmrig.exe -o rx.unmineable.com:3333 -u DOGE:D83DhUSvRArbqwh383RZSpxYk4pkVQWjwN.tuyul -p x -k -a rx/0
