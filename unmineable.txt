@@ -4,4 +4,6 @@ D83DhUSvRArbqwh383RZSpxYk4pkVQWjwN
 xmrig.exe -o rx.unmineable.com:3333 -u DOGE:D83DhUSvRArbqwh383RZSpxYk4pkVQWjwN.tuyul -p x -k -a rx/0
 ./xmrig -o rx.unmineable.com:3333 -u DOGE:D83DhUSvRArbqwh383RZSpxYk4pkVQWjwN.tuyul -p x -k -a rx/0
 
-xmrig.exe -o ethash.unmineable.com:33333 -a rx -k -u ETH:87ELWgdpBdgaauBVRMzNnVKFKoGFAHXxEgzBmUEzRiFrAAJtrfwSou8RVcLAkmo1Zp6wrxckjaXAUAhjZW3B8SrjHR5rJui.cpu -p x pause 
+[eth]
+nbminer.exe -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u ETH:0x675a56c5f1d61b8785a68ea0e1656d39d8005ed4.tuyueth -log
+
