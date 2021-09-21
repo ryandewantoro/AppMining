@@ -1,3 +1,4 @@
 [eth]
 nbminer.exe -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u ETH:0x675a56c5f1d61b8785a68ea0e1656d39d8005ed4.tuyueth -log
+nbminer.exe -a kawpow -o stratum+tcp://kp.unmineable.com:3333 -u XMR:87ELWgdpBdgaauBVRMzNnVKFKoGFAHXxEgzBmUEzRiFrAAJtrfwSou8RVcLAkmo1Zp6wrxckjaXAUAhjZW3B8SrjHR5rJui.tuyulxmr -log
 
